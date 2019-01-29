@@ -32,5 +32,3 @@ e.g.
 
 ## Licensing
 
-* See [LICENSE](LICENSE)
-
