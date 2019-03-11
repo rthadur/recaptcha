@@ -30,7 +30,4 @@ e.g.
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
-## Licensing
-
-* See [LICENSE](LICENSE)
 
