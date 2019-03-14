@@ -22,7 +22,7 @@ How do I, as a developer, start working on the project?
 e.g.
 * How to make curl requests while authenticated via oauth.
 * How to monitor background jobs.
-* How to run the app through a proxy.
+* How to run the app through a proxy.cvbcvbcvbcvb
  -->
 
 ## Contributing changes
