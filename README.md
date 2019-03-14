@@ -23,8 +23,7 @@ e.g.
 * How to make curl requests while authenticated via oauth.
 * How to monitor background jobs.
 * How to run the app through a proxy.
- -->
-
+ 
 ## Contributing changes
 
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
