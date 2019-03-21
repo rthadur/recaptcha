@@ -21,12 +21,3 @@ How do I, as a developer, start working on the project?
 
 e.g.
 * How to make curl requests while authenticated via oauth.
-* How to monifdsfsdfsdftor background jobs.
-* How to run the app through a proxy.
- -->
-
-## Contributing changes
-
-* See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
