@@ -17,9 +17,9 @@ How do I, as a developer, start working on the project?
 <!--- 
 ## Troubleshooting & useful tools
 
-### Examples of common tasks
+### Examples of common tasksa
 
-e.g.
+e.g.a
 * How to make curl requests while authenticated via oauth.
 * How to monifdsfsdfsdftor background jobs.
 * How to run the app through a proxy.
@@ -27,6 +27,6 @@ e.g.
 
 ## Contributing changes
 
-* See [CONTRIBUTING.md](CONTRIBUTING.md)
+* See [CONTRIBUTING.md](CONTRIBUTING.md)a
 
 
