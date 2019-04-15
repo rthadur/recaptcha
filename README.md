@@ -11,7 +11,7 @@ Please ask questions on [Stackoverflow](http://stackoverflow.com/questions/tagge
 
 How do I, as a developer, start working on the project?
 
-1. cd phase1  (or final if you wish to skip ahead)
+1. cd phase1  (or final if you wish to skip ahead
 1. `mvn clean appengine:devserver`
 
 <!--- 
@@ -20,8 +20,8 @@ How do I, as a developer, start working on the project?
 ### Examples of common tasks
 
 e.g.
-* How to make curl requests while authenticated via oauth.
-* How to monifdsfsdfsdftor background jobs.
+* How to make curl requests while authenticated via oauth
+* How to monifdsfsdfsdftor background jobs
 * How to run the app through a proxy.
  -->
 
