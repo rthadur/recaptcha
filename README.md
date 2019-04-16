@@ -16,7 +16,7 @@ How do I, as a developer, start working on the project?
 
 <!--- 
 ## Troubleshooting & useful tools
-
+s
 ### Examples of common tasks
 
 e.g.
