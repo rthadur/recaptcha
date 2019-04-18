@@ -5,7 +5,7 @@ Goes through the process of adding reCAPTCHA to a comment form using Java and Ma
 1. phase1 -- Initial UI
 2. final -- Final version of the codelab with reCAPTCHA support.
 
-Please ask questions on [Stackoverflow](http://stackoverflow.com/questions/tagged/recaptcha)
+Please ask questions on [Stackoverflow](http://stackoverflow.com/questions/tagged/recaptcha),,,,
 
 ## Project setup, installation, and configuration
 
