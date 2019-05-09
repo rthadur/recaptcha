@@ -15,9 +15,9 @@ How do I, as a developer, start working on the project?
 1. `mvn clean appengine:devserver`
 
 <!--- 
-## Troubleshooting & useful tools
+## Troubleshooting & useful toolssdsdsds
 
-### Examples of common tasks
+### Examples of common tasksdfsdfsdfsdfsds
 
 e.g.
 * How to make curl requests while authenticated via oauth.
