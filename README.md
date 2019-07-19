@@ -20,7 +20,7 @@ How do I, as a developer, start working on the project?
 ### Examples of common tasks
 
 e.g.
-* How to make curl requests while authenticated via oauth.
+* How to make curl requestsdfdfsdfsdfsdfsdf while authenticated via oauth.
 * How to monifdsfsdfsdftor background jobs.
 * How to run the app through a proxy.
  -->
