@@ -15,6 +15,19 @@ How do I, as a developer, start working on the project?
 1. `mvn clean appengine:devserver`
 
 <!--- 
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+a
 ## Troubleshooting & useful tools
 
 ### Examples of common tasks
