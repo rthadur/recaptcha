@@ -5,9 +5,9 @@ daysUntilStale: 60
 # Number of days of inactivity before a stale Issue or Pull Request is closed
 daysUntilClose: 1
 # Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to disable
-exemptLabels:
-  - pinned
-  - security
+onlyLabels:
+  - awaitingResponse
+  
 # Label to use when marking as stale
 staleLabel: wontfix
 # Comment to post when marking as stale. Set to `false` to disable
