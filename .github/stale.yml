@@ -15,6 +15,7 @@ markComment: >
 # Comment to post when removing the stale label. Set to `false` to disable
 unmarkComment: false
 # Comment to post when closing a stale Issue or Pull Request. Set to `false` to disable
-closeComment: false
+closeComment: >
+  Closing as stale. Please reopen if you'd like to work on this further.
 # Limit to only `issues` or `pulls`
 only: issues
