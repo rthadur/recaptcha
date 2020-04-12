@@ -14,6 +14,8 @@ How do I, as a developer, start working on the project?
 1. cd phase1  (or final if you wish to skip ahead)
 1. `mvn clean appengine:devserver`
 
+
+
 <!--- 
 a
 a
