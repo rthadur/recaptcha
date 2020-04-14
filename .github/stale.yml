@@ -13,8 +13,7 @@ markComment: >
   recent activity. It will be closed if no further activity occurs. Thank you
   for your contributions.
 # Comment to post when removing the stale label. Set to `false` to disable
-unmarkComment: >
-
+unmarkComment: 
 closeComment: >
   Closing as stale. Please reopen if you'd like to work on this further.
 limitPerRun: 30
