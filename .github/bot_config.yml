@@ -1,0 +1,10 @@
+
+
+# A list of assignees, overrides reviewers if set
+assignees:
+   - ymodak
+   - jvishnuvardhan
+   - lvenugopalan
+   
+compiler_assignees:
+   - rthadur
