@@ -15,7 +15,7 @@ reviewers:
 numberOfReviewers: 0
 
 # A list of assignees, overrides reviewers if set
- assignees:
+assignees:
    - ymodak
    - jvishnuvardhan
    - lvenugopalan
