@@ -55,6 +55,6 @@ Comment: >
       * The easiest way to use TF will be to switch to [google colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb#recent=true). You get pre-installed latest stable TF version. Also you can use ```pip install```  to install any other preferred TF version.
       * It has an added advantage since you can you easily switch to different hardware accelerators (cpu, gpu, tpu) as per the task.
       * All you need is a good internet connection and you are all set.
-* Try to build TF from sources by changing CPU optimization flags.
+   * Try to build TF from sources by changing CPU optimization flags.
 
-*Please let us know if this helps.*
+   *Please let us know if this helps.*
