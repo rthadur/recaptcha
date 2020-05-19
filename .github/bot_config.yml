@@ -17,6 +17,7 @@ cuda_comment: >
    
    **1. Installing **TensorFlow-GPU** (TF) prebuilt binaries**
    
+   
    Make sure you are using compatible TF and CUDA versions.
    Please refer following TF version and CUDA version compatibility table.
    
