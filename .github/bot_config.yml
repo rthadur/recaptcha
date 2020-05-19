@@ -45,10 +45,13 @@ Comment: >
    -----------------------------------------------------------------------------------------------
 
    **2. Installing **TensorFlow** (TF) CPU prebuilt binaries**
+   
 
    *TensorFlow release binaries version 1.6 and higher are prebuilt with AVX instruction sets.*
+   
 
    Therefore on any CPU that does not have these instruction sets, either CPU or GPU version of TF will fail to load.
+   
    Apparently, your CPU model does not support AVX instruction sets. You can still use TensorFlow with the alternatives given below:
 
    * Try Google Colab to use TensorFlow.
@@ -56,5 +59,6 @@ Comment: >
       * It has an added advantage since you can you easily switch to different hardware accelerators (cpu, gpu, tpu) as per the task.
       * All you need is a good internet connection and you are all set.
    * Try to build TF from sources by changing CPU optimization flags.
+   
 
    *Please let us know if this helps.*
