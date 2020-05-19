@@ -64,10 +64,9 @@ cuda_comment: >
    *Please let us know if this helps.*
    
 windows_comment: >
-
    From the stack trace it looks like you are hitting windows path length limit.
 
       * Try to disable path length limit on Windows 10.
         * Refer [disable path length limit instructions guide.](https://mspoweruser.com/ntfs-260-character-windows-10/)
 
-Please let us know if this helps.
+   Please let us know if this helps.
