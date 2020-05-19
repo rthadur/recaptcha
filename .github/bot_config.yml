@@ -46,6 +46,7 @@ cuda_comment: >
    
    *TensorFlow release binaries version 1.6 and higher are prebuilt with AVX instruction sets.*
    
+   
    Therefore on any CPU that does not have these instruction sets, either CPU or GPU version of TF will fail to load.
    
    Apparently, your CPU model does not support AVX instruction sets. You can still use TensorFlow with the alternatives given below:
