@@ -17,6 +17,7 @@ Comment: >
    -----------------------------------------------------------------------------------------------
 
    **1. Installing **TensorFlow-GPU** (TF) prebuilt binaries**
+   
 
    Make sure you are using compatible TF and CUDA versions.
    Please refer following TF version and CUDA version compatibility table.
@@ -28,12 +29,12 @@ Comment: >
    | 1.5.0 - 1.12.0 | 9.0 |
 
    * If you have above configuration and using _**Windows**_ platform -
-   * Try adding the CUDA, CUPTI, and cuDNN installation directories to the %PATH% environment variable.
-    * Refer [windows setup guide](https://www.tensorflow.org/install/gpu#windows_setup).
+      * Try adding the CUDA, CUPTI, and cuDNN installation directories to the %PATH% environment variable.
+      * Refer [windows setup guide](https://www.tensorflow.org/install/gpu#windows_setup).
    * If you have above configuration and using _**Ubuntu/Linux**_ platform -
-   * Try adding the CUDA, CUPTI, and cuDNN installation directories to the $LD_LIBRARY_PATH environment variable.
-    * Refer [linux setup guide](https://www.tensorflow.org/install/gpu#linux_setup).
+      * Try adding the CUDA, CUPTI, and cuDNN installation directories to the $LD_LIBRARY_PATH environment variable.
+      * Refer [linux setup guide](https://www.tensorflow.org/install/gpu#linux_setup).
    * If error still persists then, apparently your CPU model does not support AVX instruction sets.
-   * Refer [hardware requirements](https://www.tensorflow.org/install/pip#hardware-requirements).
+      * Refer [hardware requirements](https://www.tensorflow.org/install/pip#hardware-requirements).
 
    
