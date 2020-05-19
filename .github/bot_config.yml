@@ -43,6 +43,7 @@ cuda_comment: >
    
    **2. Installing **TensorFlow** (TF) CPU prebuilt binaries**
    
+   
    *TensorFlow release binaries version 1.6 and higher are prebuilt with AVX instruction sets.*
    
    Therefore on any CPU that does not have these instruction sets, either CPU or GPU version of TF will fail to load.
