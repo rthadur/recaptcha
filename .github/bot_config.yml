@@ -8,6 +8,7 @@ assignees:
    
 compiler_assignees:
    - rthadur
+# Cuda Comment
 cuda_comment: >
    From the template it looks like you are installing **TensorFlow** (TF) prebuilt binaries:
       * For TF-GPU - See point 1
