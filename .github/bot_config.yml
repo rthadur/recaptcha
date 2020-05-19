@@ -42,3 +42,19 @@ Comment: >
       * Refer [hardware requirements](https://www.tensorflow.org/install/pip#hardware-requirements).
 
    
+   -----------------------------------------------------------------------------------------------
+
+   **2. Installing **TensorFlow** (TF) CPU prebuilt binaries**
+
+   *TensorFlow release binaries version 1.6 and higher are prebuilt with AVX instruction sets.*
+
+   Therefore on any CPU that does not have these instruction sets, either CPU or GPU version of TF will fail to load.
+   Apparently, your CPU model does not support AVX instruction sets. You can still use TensorFlow with the alternatives given below:
+
+   * Try Google Colab to use TensorFlow.
+      * The easiest way to use TF will be to switch to [google colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb#recent=true). You get pre-installed latest stable TF version. Also you can use ```pip install```  to install any other preferred TF version.
+      * It has an added advantage since you can you easily switch to different hardware accelerators (cpu, gpu, tpu) as per the task.
+      * All you need is a good internet connection and you are all set.
+* Try to build TF from sources by changing CPU optimization flags.
+
+*Please let us know if this helps.*
