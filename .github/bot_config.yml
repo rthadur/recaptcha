@@ -8,7 +8,7 @@ assignees:
    
 compiler_assignees:
    - rthadur
-Comment: >
+cuda_comment: >
    From the template it looks like you are installing **TensorFlow** (TF) prebuilt binaries:
 
       * For TF-GPU - See point 1
@@ -62,3 +62,11 @@ Comment: >
    
 
    *Please let us know if this helps.*
+   
+   windows_comment: >
+   
+      From the stack trace it looks like you are hitting 
+      'windows path length limit.\n\n  * Try to disable path length limit on ' +
+      'Windows 10.\n     * Refer [disable path length limit instructions ' +
+      'guide.](https://mspoweruser.com/ntfs-260-character-windows-10/)\n\n' +
+      'Please let us know if this helps.
