@@ -10,10 +10,10 @@ compiler_assignees:
    - rthadur
    
 filesystem_path:
-   -tensorflow/c/experimental/filesystem
+   - tensorflow/c/experimental/filesystem
    
 filesystem_assignee:
-   -rthadur
+   - rthadur
    
 # Cuda Comment
 cuda_comment: >
