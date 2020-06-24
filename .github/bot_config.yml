@@ -12,7 +12,10 @@ compiler_assignees:
 filesystem_path:
    - tensorflow/c/experimental/filesystem
    
-filesystem_assignee:
+security_path:
+   - tensorflow/security
+   
+filesystem_security_assignee:
    - rthadur
    
 # Cuda Comment
