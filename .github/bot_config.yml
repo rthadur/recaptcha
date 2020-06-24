@@ -10,7 +10,7 @@ compiler_assignees:
    - rthadur
    
 filesystem_path:
-   -c/experimental/filesystem
+   -tensorflow/c/experimental/filesystem
    
 filesystem_assignee:
    -rthadur
