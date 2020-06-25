@@ -15,6 +15,10 @@ filesystem_path:
 security_path:
    - tensorflow/security
    
+segfault_memory:
+   - segfault
+   - memory leaks
+   
 filesystem_security_assignee:
    - rthadur
    
