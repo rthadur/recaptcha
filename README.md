@@ -45,9 +45,5 @@ asbas\
 nvnvd\
 dklvndlsv
 nvv\
-efewj 
- ew ewew
- w
- werwe t
- t
+ef
 
