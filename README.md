@@ -1,3 +1,4 @@
+#
 ## recaptcha-codelab
 
 Goes through the process of adding reCAPTCHA to a comment form using Java and Maven in phases.
