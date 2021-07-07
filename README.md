@@ -34,7 +34,7 @@ a
 
 e.g.
 * How to make curl requests while authenticated via oauth.
-* How to monifdsfsdfsdftor background jobs.
+* How to monifdsfsdfsdftoasdasdasdasdasdasdasdasdasdr background jobs.
 * How to run the app through a proxy.
  -->
 
