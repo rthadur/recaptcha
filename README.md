@@ -2,7 +2,7 @@
 
 Goes through the process of adding reCAPTCHA to a comment form using Java and Maven in phases.
 
-1. phase1 -- Initial UI
+1. phase1 -- Initial UIddd
 2. final -- Final version of the codelab with reCAPTCHA support.
 
 Please ask questions on [Stackoverflow](http://stackoverflow.com/questions/tagged/recaptcha)
