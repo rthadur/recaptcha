@@ -30,7 +30,7 @@ a
 a
 ## Troubleshooting & useful tools
 
-### Examples of common tasks
+### Examples of common task
 
 e.g.
 * How to make curl requests while authenticated via oauth.
