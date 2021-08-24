@@ -1,4 +1,4 @@
-name: Coral Issue Template
+name: Issue Template
 description: Use this template to report any issue
 body:
   - type: markdown
@@ -44,13 +44,13 @@ body:
   - type: dropdown
     id: Hardware
     attributes:
-      label: Coral Device
+      label: Device
 #       description: If option not avaialble, please specify in what happend section!
       multiple: true
       options:
-        - Dev Board
-        - USB Accelerator
-        - Dev Board Mini
+        - Iphone
+        - Samsung
+        - Pixel
         - Mini PCIe
         - M.2 Accelerator A+E
         - M.2 Accelerator B+M
@@ -60,7 +60,7 @@ body:
         - Enviro Board
         - Coral Camera
   - type: dropdown
-    id: External-Hardware
+    id: Hardware
     attributes:
       label: Other Devices
       description: If you don't see your device listed, please provide more details in the "Description" section above.
