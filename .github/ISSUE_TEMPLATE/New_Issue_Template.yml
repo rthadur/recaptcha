@@ -4,7 +4,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to report a issue.
+        Thank you for taking the time to report a issue. [Reference](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+
   - type: textarea
     id: what-happened
     attributes:
