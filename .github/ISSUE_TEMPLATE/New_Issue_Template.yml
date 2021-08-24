@@ -60,7 +60,7 @@ body:
         - Enviro Board
         - Coral Camera
   - type: dropdown
-    id: Hardware
+    id: Other-Hardware
     attributes:
       label: Other Devices
       description: If you don't see your device listed, please provide more details in the "Description" section above.
