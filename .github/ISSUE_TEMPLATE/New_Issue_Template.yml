@@ -1,3 +1,4 @@
+[Reference](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 name: Issue Template
 description: Use this template to report any issue
 body:
@@ -96,5 +97,3 @@ body:
 #       options:
 #         - label: I agree to follow this project's Code of Conduct
 #           required: true
-
-https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
