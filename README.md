@@ -8,7 +8,7 @@ Goes through the process of adding reCAPTCHA to a comment form using Java and Ma
 Please ask questions on [Stackoverflow](http://stackoverflow.com/questions/tagged/recaptcha)
 
 ## Project setup, installation, and configuration
-
+s
 How do I, as a developer, start working on the project?
 
 1. cd phase1  (or final if you wish to skip ahead)
@@ -29,10 +29,10 @@ a
 
 a
 ## Troubleshooting & useful tools
-
+s
 ### Examples of common tasks
 
-e.g.
+e.g.'''''''
 * How to make curl requests while authenticated via oauth.
 * How to monifdsfsdfsdftor background jobs.
 * How to run the app through a proxy.
