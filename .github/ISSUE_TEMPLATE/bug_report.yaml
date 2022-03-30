@@ -3,6 +3,21 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["type:bug"]
 body:
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What type of issue would you like to report?
+      multiple: true
+      options:
+        - Bug
+        - Build/Install
+        - Performance
+        - Support
+        - Feature Request
+        - Documentation Feature Request
+        - Documentation Bug
+        - Others
   - type: markdown
     attributes:
       value: |
