@@ -11,9 +11,9 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Custom Code
+      description: Have I written custom code (as opposed to using a stock example script provided in TensorFlow)
+      placeholder: yes/no
     validations:
       required: false
   - type: textarea
