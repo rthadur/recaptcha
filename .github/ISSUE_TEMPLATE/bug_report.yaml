@@ -29,6 +29,24 @@ body:
         You can collect some of this information using our environment capture [script](https://github.com/tensorflow/tensorflow/tree/master/tools/tf_env_collect.sh)  You can also obtain the TensorFlow version with: <br> 1. TF 1.0: `python -c "import tensorflow as tf; print(tf.GIT_VERSION, tf.VERSION)"` <br>2. TF 2.0: `python -c "import tensorflow as tf; print(tf.version.GIT_VERSION, tf.version.VERSION)"`
 
   - type: dropdown
+    id: source
+    attributes:
+      label: Source
+      description: Tensorflow installed from
+      options:
+        - source
+        - binary
+    validations:
+      required: true
+  - type: input
+    id: tfversion
+    attributes:
+      label: Tensorflow Version
+      description: 
+      placeholder: ex,. tf 2.8
+    validations:
+      required: true
+  - type: dropdown
     id: Code
     attributes:
       label: Custom Code
@@ -91,24 +109,6 @@ body:
     attributes:
       label: GPU model and memory
       description: if compiling from source
-      placeholder: 
-    validations:
-      required: false
-  - type: dropdown
-    id: source
-    attributes:
-      label: Source
-      description: Tensorflow installed from
-      options:
-        - source
-        - binary
-    validations:
-      required: true
-  - type: input
-    id: tfversion
-    attributes:
-      label: Tensorflow Version
-      description: 
       placeholder: 
     validations:
       required: false
