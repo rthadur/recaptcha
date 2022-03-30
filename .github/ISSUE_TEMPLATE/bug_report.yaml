@@ -36,7 +36,7 @@ body:
     id: Python
     attributes:
       label: Python version
-      description: if compiling from source
+      description: 
       placeholder: e.g., 3.9
     validations:
       required: false
@@ -44,6 +44,30 @@ body:
     id: Bazel
     attributes:
       label: Bazel version
+      description: if compiling from source
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: Compiler
+    attributes:
+      label: GCC/Compiler version
+      description: if compiling from source
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: Cuda
+    attributes:
+      label: CUDA/cuDNN version
+      description:
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: Gpu
+    attributes:
+      label: GPU model and memory
       description: if compiling from source
       placeholder: 
     validations:
