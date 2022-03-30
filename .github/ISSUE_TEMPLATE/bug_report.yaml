@@ -6,7 +6,7 @@ body:
     attributes:
       label: Issue Type
       description: What type of issue would you like to report?
-      multiple: true
+      multiple: false
       options:
         - Bug
         - Build/Install
@@ -16,6 +16,8 @@ body:
         - Documentation Feature Request
         - Documentation Bug
         - Others
+      validations:
+      required: true
   - type: markdown
     attributes:
       value: |
