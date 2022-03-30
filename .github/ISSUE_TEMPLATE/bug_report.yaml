@@ -20,8 +20,16 @@ body:
     id: OS
     attributes:
       label: OS Platform and Distribution
-      description: Have I written custom code (as opposed to using a stock example script provided in TensorFlow)
-      placeholder: yes/no
+      description: 
+      placeholder: e.g., Linux Ubuntu 16.04
+    validations:
+      required: false
+  - type: input
+    id: Mobile
+    attributes:
+      label: Mobile device
+      description: 
+      placeholder: e.g., Linux Ubuntu 16.04
     validations:
       required: false
   - type: textarea
