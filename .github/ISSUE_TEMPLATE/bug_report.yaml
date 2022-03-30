@@ -16,8 +16,8 @@ body:
         - Documentation Feature Request
         - Documentation Bug
         - Others
-     validations:
-       required: true
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
