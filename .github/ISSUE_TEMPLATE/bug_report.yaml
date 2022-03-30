@@ -17,7 +17,7 @@ body:
         - Documentation Bug
         - Others
       validations:
-      required: true
+        required: true
   - type: markdown
     attributes:
       value: |
