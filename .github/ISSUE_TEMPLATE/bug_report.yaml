@@ -32,8 +32,8 @@ body:
       label: Custom Code
       description: 
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: input
