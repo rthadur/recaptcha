@@ -104,16 +104,14 @@ body:
         - binary
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: tfversion
     attributes:
       label: Tensorflow Version
-      multiple: true
-      options:
-        - 2.8
-        - 2.7
-        - 2.6
-        - 2.5
+      description: 
+      placeholder: 
+    validations:
+      required: false
   - type: textarea
     id: what-happened
     attributes:
