@@ -25,14 +25,17 @@ body:
     attributes:
       value: | 
         You can collect some of this information using our environment capture [script](https://github.com/tensorflow/tensorflow/tree/master/tools/tf_env_collect.sh)  You can also obtain the TensorFlow version with: <br> 1. TF 1.0: `python -c "import tensorflow as tf; print(tf.GIT_VERSION, tf.VERSION)"` <br>2. TF 2.0: `python -c "import tensorflow as tf; print(tf.version.GIT_VERSION, tf.version.VERSION)"`
-  - type: input
+
+  - type: dropdown
     id: Code
     attributes:
       label: Custom Code
-      description: Have I written custom code (as opposed to using a stock example script provided in TensorFlow)
-      placeholder: yes/no
+      description: 
+      options:
+        - Yes
+        - No
     validations:
-      required: false
+      required: true
   - type: input
     id: OS
     attributes:
