@@ -1,3 +1,5 @@
+name: Tensorflow Issue Template
+description: Use this template to report any issue
 body:
   - type: dropdown
     id: issue-type
