@@ -42,25 +42,25 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: source
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Source
+      description: Tensorflow installed from
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - source
+        - binary
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: tf version
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Tensorflow Version
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - 2.8
+        - 2.7
+        - 2.6
+        - 2.5
   - type: textarea
     id: logs
     attributes:
