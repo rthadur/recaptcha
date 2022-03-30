@@ -16,6 +16,14 @@ body:
       placeholder: yes/no
     validations:
       required: false
+  - type: input
+    id: contact
+    attributes:
+      label: OS Platform and Distribution
+      description: Have I written custom code (as opposed to using a stock example script provided in TensorFlow)
+      placeholder: yes/no
+    validations:
+      required: false
   - type: textarea
     id: what-happened
     attributes:
