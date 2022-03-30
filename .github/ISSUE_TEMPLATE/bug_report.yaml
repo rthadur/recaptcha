@@ -52,7 +52,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: tf version
+    id: tfversion
     attributes:
       label: Tensorflow Version
       multiple: true
