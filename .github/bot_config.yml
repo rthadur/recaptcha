@@ -16,3 +16,7 @@
 # A list of assignees
 assignees:
    - sgowroji
+   
+file_path:
+   recapthca/tensorflow/filesystem : rthadur
+   recaptcha/tensorflow/compiler : rthadur   
